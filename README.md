@@ -18,8 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Maheshh-S/DSA/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Maheshh-S/DSA/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Maheshh-S/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
