@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Maheshh-S/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Maheshh-S/DSA/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Maheshh-S/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Maheshh-S/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
