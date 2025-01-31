@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Maheshh-S/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Maheshh-S/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Maheshh-S/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Maheshh-S/DSA/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maheshh-S/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Trie
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Maheshh-S/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Maheshh-S/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
