@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Maheshh-S/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshh-S/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Maheshh-S/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Maheshh-S/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
 ## Design
@@ -149,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshh-S/DSA/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
