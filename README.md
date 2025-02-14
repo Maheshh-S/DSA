@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maheshh-S/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Maheshh-S/DSA/tree/master/0485-max-consecutive-ones) |
 | [1364-tuple-with-same-product](https://github.com/Maheshh-S/DSA/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshh-S/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Maheshh-S/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maheshh-S/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Maheshh-S/DSA/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -167,10 +170,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshh-S/DSA/tree/master/1603-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
