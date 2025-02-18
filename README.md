@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/Maheshh-S/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Maheshh-S/DSA/tree/master/2659-number-of-even-and-odd-bits) |
 ## Sorting
 |  |
 | ------- |
