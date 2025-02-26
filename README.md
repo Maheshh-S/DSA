@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/Maheshh-S/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Maheshh-S/DSA/tree/master/2107-find-unique-binary-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Maheshh-S/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Maheshh-S/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maheshh-S/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Maheshh-S/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Maheshh-S/DSA/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Maheshh-S/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshh-S/DSA/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maheshh-S/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2358-number-of-ways-to-split-array](https://github.com/Maheshh-S/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Maheshh-S/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
