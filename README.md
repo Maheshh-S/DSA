@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Maheshh-S/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Maheshh-S/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshh-S/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Maheshh-S/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshh-S/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Maheshh-S/DSA/tree/master/0338-counting-bits) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Maheshh-S/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Maheshh-S/DSA/tree/master/0190-reverse-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
