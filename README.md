@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Maheshh-S/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Maheshh-S/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maheshh-S/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Maheshh-S/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Maheshh-S/DSA/tree/master/2659-number-of-even-and-odd-bits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Maheshh-S/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/Maheshh-S/DSA/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Maheshh-S/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Maheshh-S/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
