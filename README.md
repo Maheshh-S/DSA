@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Maheshh-S/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Maheshh-S/DSA/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshh-S/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Maheshh-S/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Maheshh-S/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Maheshh-S/DSA/tree/master/1170-shortest-common-supersequence) |
