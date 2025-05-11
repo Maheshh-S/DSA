@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0968-beautiful-array](https://github.com/Maheshh-S/DSA/tree/master/0968-beautiful-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maheshh-S/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Maheshh-S/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Maheshh-S/DSA/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Maheshh-S/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Maheshh-S/DSA/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
