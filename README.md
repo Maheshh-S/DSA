@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Maheshh-S/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Maheshh-S/DSA/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maheshh-S/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Maheshh-S/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Maheshh-S/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Maheshh-S/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/Maheshh-S/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Maheshh-S/DSA/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Maheshh-S/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
