@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Maheshh-S/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Maheshh-S/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maheshh-S/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheshh-S/DSA/tree/master/0242-valid-anagram) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maheshh-S/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Maheshh-S/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0088-merge-sorted-array) |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maheshh-S/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Maheshh-S/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
