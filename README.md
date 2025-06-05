@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Maheshh-S/DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Maheshh-S/DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Maheshh-S/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Maheshh-S/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Maheshh-S/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Maheshh-S/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Maheshh-S/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Maheshh-S/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Maheshh-S/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
