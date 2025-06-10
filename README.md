@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Maheshh-S/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maheshh-S/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Maheshh-S/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Maheshh-S/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Maheshh-S/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Maheshh-S/DSA/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Maheshh-S/DSA/tree/master/2050-count-good-numbers) |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Maheshh-S/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maheshh-S/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Maheshh-S/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Maheshh-S/DSA/tree/master/0443-string-compression) |
@@ -409,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Maheshh-S/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Maheshh-S/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maheshh-S/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
