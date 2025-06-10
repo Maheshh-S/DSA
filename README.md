@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Maheshh-S/DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheshh-S/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Maheshh-S/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Maheshh-S/DSA/tree/master/0136-single-number) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Maheshh-S/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheshh-S/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maheshh-S/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Maheshh-S/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
 |  |
