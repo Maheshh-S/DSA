@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Maheshh-S/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Maheshh-S/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Maheshh-S/DSA/tree/master/0485-max-consecutive-ones) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Maheshh-S/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheshh-S/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0806-domino-and-tromino-tiling](https://github.com/Maheshh-S/DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Maheshh-S/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maheshh-S/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maheshh-S/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Maheshh-S/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maheshh-S/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Maheshh-S/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Maheshh-S/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Maheshh-S/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
