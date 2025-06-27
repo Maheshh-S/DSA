@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Maheshh-S/DSA/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Maheshh-S/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Maheshh-S/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Maheshh-S/DSA/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Maheshh-S/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Maheshh-S/DSA/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Maheshh-S/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maheshh-S/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maheshh-S/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Maheshh-S/DSA/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Maheshh-S/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Maheshh-S/DSA/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maheshh-S/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Maheshh-S/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maheshh-S/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/Maheshh-S/DSA/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Maheshh-S/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maheshh-S/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Maheshh-S/DSA/tree/master/3647-zero-array-transformation-iii) |
