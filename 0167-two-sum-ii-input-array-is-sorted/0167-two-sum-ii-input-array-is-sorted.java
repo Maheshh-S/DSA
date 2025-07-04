@@ -1,15 +1,27 @@
 class Solution {
-    public int[] twoSum(int[] numbers, int target) {
-        int n = numbers.length;
-        int i=0, j=n-1;
+    public int[] twoSum(int[] nums, int target) {
 
-        while(i<j){
-            if(numbers[i]+numbers[j] == target) break;
-            if(numbers[i]+numbers[j] < target) i++;
-            else j--;
-        }
 
-        int[] ans = {i+1, j+1};
-        return ans;
+                int n = nums.length;
+
+                int l = 0;
+                int r = n-1;
+
+                while(l < r){
+
+                    if(nums[l] + nums[r] == target){
+                     break;
+                    }
+
+                    if(nums[l] + nums[r] > target){
+                        r--;
+                    }else{
+                      l++;   
+                    }
+
+                }
+               int[] ans = {l+1, r+1};
+               return ans;
+
     }
 }
