@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Maheshh-S/DSA/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Maheshh-S/DSA/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maheshh-S/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Maheshh-S/DSA/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Maheshh-S/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Maheshh-S/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
