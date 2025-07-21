@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Maheshh-S/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Maheshh-S/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Maheshh-S/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maheshh-S/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Maheshh-S/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Maheshh-S/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
