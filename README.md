@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Maheshh-S/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshh-S/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maheshh-S/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maheshh-S/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Maheshh-S/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -737,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Maheshh-S/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Maheshh-S/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Maheshh-S/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -755,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maheshh-S/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Maheshh-S/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -817,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maheshh-S/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Maheshh-S/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Hash Function
