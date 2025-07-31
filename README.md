@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maheshh-S/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Maheshh-S/DSA/tree/master/0945-snakes-and-ladders) |
 | [0968-beautiful-array](https://github.com/Maheshh-S/DSA/tree/master/0968-beautiful-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-domino-and-tromino-tiling](https://github.com/Maheshh-S/DSA/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maheshh-S/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Maheshh-S/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maheshh-S/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Maheshh-S/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Maheshh-S/DSA/tree/master/0338-counting-bits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Maheshh-S/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Maheshh-S/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Maheshh-S/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maheshh-S/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
