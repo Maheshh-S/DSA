@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Maheshh-S/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0724-find-pivot-index](https://github.com/Maheshh-S/DSA/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -677,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshh-S/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Maheshh-S/DSA/tree/master/0724-find-pivot-index) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Maheshh-S/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Maheshh-S/DSA/tree/master/1603-running-sum-of-1d-array) |
