@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Maheshh-S/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Maheshh-S/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Maheshh-S/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Maheshh-S/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Maheshh-S/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maheshh-S/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maheshh-S/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Trie
 |  |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/Maheshh-S/DSA/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maheshh-S/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maheshh-S/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -688,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Maheshh-S/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Maheshh-S/DSA/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -712,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/Maheshh-S/DSA/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Maheshh-S/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Maheshh-S/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -910,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Maheshh-S/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Maheshh-S/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Maheshh-S/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Maheshh-S/DSA/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
