@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Maheshh-S/DSA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maheshh-S/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Maheshh-S/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Maheshh-S/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Maheshh-S/DSA/tree/master/0242-valid-anagram) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Maheshh-S/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Maheshh-S/DSA/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Maheshh-S/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Maheshh-S/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Maheshh-S/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Maheshh-S/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Maheshh-S/DSA/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Maheshh-S/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Maheshh-S/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Maheshh-S/DSA/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Maheshh-S/DSA/tree/master/0344-reverse-string) |
