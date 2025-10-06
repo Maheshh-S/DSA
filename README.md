@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/Maheshh-S/DSA/tree/master/0724-find-pivot-index) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Maheshh-S/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshh-S/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Maheshh-S/DSA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maheshh-S/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maheshh-S/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maheshh-S/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Maheshh-S/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maheshh-S/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -758,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Maheshh-S/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Maheshh-S/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Maheshh-S/DSA/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Maheshh-S/DSA/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -820,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Maheshh-S/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maheshh-S/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -837,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Maheshh-S/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Maheshh-S/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Maheshh-S/DSA/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -929,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Maheshh-S/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Maheshh-S/DSA/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Maheshh-S/DSA/tree/master/2793-count-the-number-of-complete-components) |
