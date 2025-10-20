@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Maheshh-S/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Maheshh-S/DSA/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Maheshh-S/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maheshh-S/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maheshh-S/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maheshh-S/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Maheshh-S/DSA/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Maheshh-S/DSA/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Maheshh-S/DSA/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Maheshh-S/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Maheshh-S/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Maheshh-S/DSA/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Maheshh-S/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Maheshh-S/DSA/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Maheshh-S/DSA/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Maheshh-S/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maheshh-S/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Maheshh-S/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Maheshh-S/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
