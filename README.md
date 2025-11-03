@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Maheshh-S/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Maheshh-S/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Maheshh-S/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Maheshh-S/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Maheshh-S/DSA/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Maheshh-S/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maheshh-S/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Maheshh-S/DSA/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Maheshh-S/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/Maheshh-S/DSA/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Maheshh-S/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Maheshh-S/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Maheshh-S/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Maheshh-S/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Maheshh-S/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Maheshh-S/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Maheshh-S/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maheshh-S/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -635,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maheshh-S/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Maheshh-S/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Maheshh-S/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Maheshh-S/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Maheshh-S/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Maheshh-S/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
