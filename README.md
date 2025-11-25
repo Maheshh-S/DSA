@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Maheshh-S/DSA/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Maheshh-S/DSA/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Maheshh-S/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/Maheshh-S/DSA/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1160-letter-tile-possibilities](https://github.com/Maheshh-S/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/Maheshh-S/DSA/tree/master/0900-reordered-power-of-2) |
 | [0968-beautiful-array](https://github.com/Maheshh-S/DSA/tree/master/0968-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Maheshh-S/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Maheshh-S/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Maheshh-S/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Maheshh-S/DSA/tree/master/1448-maximum-69-number) |
