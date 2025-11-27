@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Maheshh-S/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Maheshh-S/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Maheshh-S/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1768-merge-strings-alternately](https://github.com/Maheshh-S/DSA/tree/master/1768-merge-strings-alternately) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Maheshh-S/DSA/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Maheshh-S/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maheshh-S/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1768-merge-strings-alternately](https://github.com/Maheshh-S/DSA/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/Maheshh-S/DSA/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Maheshh-S/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Maheshh-S/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
