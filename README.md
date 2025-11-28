@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/Maheshh-S/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Maheshh-S/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/Maheshh-S/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/Maheshh-S/DSA/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Maheshh-S/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Maheshh-S/DSA/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Maheshh-S/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Maheshh-S/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
