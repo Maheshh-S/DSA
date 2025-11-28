@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/Maheshh-S/DSA/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Maheshh-S/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Maheshh-S/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Maheshh-S/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Maheshh-S/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Maheshh-S/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
