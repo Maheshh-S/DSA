@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Maheshh-S/DSA/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Maheshh-S/DSA/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Maheshh-S/DSA/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Maheshh-S/DSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Maheshh-S/DSA/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0768-partition-labels](https://github.com/Maheshh-S/DSA/tree/master/0768-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/Maheshh-S/DSA/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Maheshh-S/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Maheshh-S/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -756,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Maheshh-S/DSA/tree/master/0498-diagonal-traverse) |
+| [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Maheshh-S/DSA/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Maheshh-S/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
