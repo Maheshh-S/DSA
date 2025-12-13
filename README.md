@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/Maheshh-S/DSA/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Maheshh-S/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Maheshh-S/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Maheshh-S/DSA/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maheshh-S/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Maheshh-S/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Maheshh-S/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Maheshh-S/DSA/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Maheshh-S/DSA/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/Maheshh-S/DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Maheshh-S/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Maheshh-S/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Maheshh-S/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Maheshh-S/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Maheshh-S/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Maheshh-S/DSA/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Maheshh-S/DSA/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Maheshh-S/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Maheshh-S/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Maheshh-S/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Maheshh-S/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Maheshh-S/DSA/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Maheshh-S/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3606-coupon-code-validator](https://github.com/Maheshh-S/DSA/tree/master/3606-coupon-code-validator) |
 | [3647-zero-array-transformation-iii](https://github.com/Maheshh-S/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Maheshh-S/DSA/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Maheshh-S/DSA/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
