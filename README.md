@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Maheshh-S/DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Maheshh-S/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Maheshh-S/DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2418-sort-the-people](https://github.com/Maheshh-S/DSA/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Maheshh-S/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2434-design-a-number-container-system](https://github.com/Maheshh-S/DSA/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Maheshh-S/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Maheshh-S/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Maheshh-S/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maheshh-S/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2418-sort-the-people](https://github.com/Maheshh-S/DSA/tree/master/2418-sort-the-people) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Maheshh-S/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maheshh-S/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Maheshh-S/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Maheshh-S/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Maheshh-S/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2418-sort-the-people](https://github.com/Maheshh-S/DSA/tree/master/2418-sort-the-people) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Maheshh-S/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Maheshh-S/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Maheshh-S/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -695,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Maheshh-S/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Maheshh-S/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Maheshh-S/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2418-sort-the-people](https://github.com/Maheshh-S/DSA/tree/master/2418-sort-the-people) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Maheshh-S/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Maheshh-S/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Maheshh-S/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
