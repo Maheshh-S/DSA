@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maheshh-S/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Maheshh-S/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Maheshh-S/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Maheshh-S/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Maheshh-S/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maheshh-S/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -712,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maheshh-S/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Maheshh-S/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Maheshh-S/DSA/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Maheshh-S/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maheshh-S/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1155,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/Maheshh-S/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Maheshh-S/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Maheshh-S/DSA/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Maheshh-S/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Maheshh-S/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Maheshh-S/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Maheshh-S/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
