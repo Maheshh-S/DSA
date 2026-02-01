@@ -7,10 +7,23 @@ class Solution {
         int r = 0;
         int n = nums.length;
         int sum = 0;
-        Arrays.sort(nums, 1, n);
-            sum = nums[r]+ nums[1] + nums[2];
-
         
+        
+        int first = Integer.MAX_VALUE;
+        int sec = Integer.MIN_VALUE;
+
+
+for(int i = 1; i < n ; i++){
+        int x = nums[i];
+        if( x < first){
+            sec = first;
+            first = x;
+        }else if(x < sec){
+            sec = x;
+        }
+}
+
+       sum = nums[0] + first + sec; 
         
 
     return sum;
