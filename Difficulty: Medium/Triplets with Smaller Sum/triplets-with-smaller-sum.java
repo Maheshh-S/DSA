@@ -1,38 +1,36 @@
-// User function Template for Java
-import java.util.*;
 class Solution {
-    long countTriplets(int n, int sum, long arr[]) {
+    int countTriplets(int sum, int arr[]) {
+        // code here
         
-        // given trplets are less then sum
+        int n = arr.length;
         
-        long add = 0;
-        int count =0;
         Arrays.sort(arr);
-    //   System.out.println(Arrays.toString(arr));
-       //[1, 3, 6, 7, 8, 9, 10, 19, 20, 21, 23, 25, 26, 27, 28, 30, 31, 33]
-       
+        int cnt = 0;
         
-        //. 1 3 33 - 33 3 1 - 1 33 3
-        // int best = arr[0] + arr[1] + arr[2];
+        if (arr.length < 3) return 0;
         
-        for(int i=0;i<n-2;i++){
-            int l=i+1;
-            int r=n-1;
+        for(int i = 0;i<n-2;i++){
             
-            while(l<r){
+            int l = i+1;
+            int r = n-1;
+            
+            while( l < r){
                 
-                add = arr[i] + arr[l] + arr[r];
+                int add = arr[i] + arr[l] + arr[r];
+                
+                //check add < sum? is yes c++ 
+                
                 if(add < sum){
-                  count += (r - l);
- 
-                //   l++;
-                   l++;
+                    cnt += (r - l);
+                    l++;
                 }else{
                     r--;
                 }
+                
+                
             }
         }
-        return count;
+        return cnt;
         
     }
 }
