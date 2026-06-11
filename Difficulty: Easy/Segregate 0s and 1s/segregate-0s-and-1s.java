@@ -1,24 +1,18 @@
-// User function Template for Java
-
 class Solution {
     void segregate0and1(int[] arr) {
         // code here
         int n = arr.length;
         
         int l = 0;
-        int r = n-1;
         
-        while(l < r){
+        for(int i = 0; i< n; i++){
             
-            
-            if(arr[l] == 0){
+            if(arr[i] != 1){
+                int temp = arr[i];
+                arr[i] = arr[l];
+                arr[l] = temp;
+                
                 l++;
-            }else if(arr[r] == 1){
-                r--;
-            }else{
-                int temp = arr[l];
-                arr[l] = arr[r];
-                arr[r] = temp;
             }
         }
     }
