@@ -1,22 +1,22 @@
+    //this is brute force and FOR SURE TLE <-
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-
         int n = nums.length;
-        int[] ans = new int[n];
 
-        //prefix
-        ans[0] = 1;
-        for (int i = 1; i < n; i++) {
-            ans[i] = ans[i - 1] * nums[i - 1];
-        }
+        int res[] = new int[n];
 
-        //sufix
+        res[0] = 1;
+
+        for(int i=1;i<n;i++){
+            res[i] = res[i-1] * nums[i-1];
+
+        }   
+
         int suffix = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            ans[i] = ans[i] * suffix;
-            suffix *= nums[i];
+        for(int j=n-1;j>=0; j--){
+            res[j] = res[j] * suffix;
+            suffix *= nums[j];
         }
-
-        return ans;
+        return res;
     }
 }
