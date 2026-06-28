@@ -1,23 +1,23 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-        Map<Integer, Integer > RemIdx = new HashMap<>();
-
+        int l = 0;
+        int n = nums.length;
         int sum = 0;
+        HashMap<Integer , Integer> map = new HashMap<>();
+map.put(0,-1);
+        for(int r=0;r<n;r++){
+            sum += nums[r];
+            int rem = sum % k;
 
-        RemIdx.put(0,-1);
-        for(int i = 0 ; i < nums.length; i++){
-            sum += nums[i];
-
-            int rem = sum %k;
-            if(RemIdx.containsKey(rem)){
-                if(i - RemIdx.get(rem) > 1){
+        
+            if(map.containsKey(rem)){
+                if(r - map.get(rem) >=2){
                     return true;
                 }
             }else{
-                RemIdx.put(rem,i);
+                map.put(rem , r);
             }
         }
-
-return false;
+        return false;
     }
 }
