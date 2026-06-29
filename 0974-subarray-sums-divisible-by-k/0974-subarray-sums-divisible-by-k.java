@@ -3,27 +3,28 @@ class Solution {
         
 
         int n = nums.length;
+        int cnt = 0;
+        int prefix = 0;
 
-        int sum =0;
+        HashMap<Integer , Integer> map = new HashMap<>();
 
-        int count = 0;
+        map.put(0 , 1);
 
-        Map<Integer , Integer> map = new HashMap<>();
+        for(int i = 0 ; i <n;i++){
+            prefix += nums[i];
 
-        map.put(0,1);
+            int rem = prefix % k;
 
-
-        for(int num : nums){
-            sum += num;
-
-            int rem = ((sum % k) + k) % k;
-
-            if(map.containsKey(rem)){
-                count += map.get(rem);
+            if(rem < 0){
+                rem += k;
             }
 
-            map.put(rem, map.getOrDefault(rem , 0) +1);
+            if(map.containsKey(rem)){
+                cnt += map.get(rem);
+            }
+
+            map.put(rem , map.getOrDefault(rem , 0) +1);
         }
-        return count;
+        return cnt;
     }
 }
