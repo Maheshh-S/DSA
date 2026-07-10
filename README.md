@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Maheshh-S/DSA/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/Maheshh-S/DSA/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Maheshh-S/DSA/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/Maheshh-S/DSA/tree/master/0875-koko-eating-bananas) |
@@ -848,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Maheshh-S/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Maheshh-S/DSA/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Maheshh-S/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0735-asteroid-collision](https://github.com/Maheshh-S/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Maheshh-S/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Maheshh-S/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -873,6 +875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Maheshh-S/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Maheshh-S/DSA/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Maheshh-S/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Maheshh-S/DSA/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Maheshh-S/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Maheshh-S/DSA/tree/master/2048-build-array-from-permutation) |
