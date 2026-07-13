@@ -1,54 +1,52 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
         
-        int i = s.length() - 1;
-        int j = t.length() - 1;
+        int m = s.length();
+        int n = t.length();
 
-        int skipS = 0, skipT = 0;
+        int l = m-1;
+        int r = n-1;
 
-        while (i >= 0 || j >= 0) {
+        int cnt1 = 0;
+        int cnt2 = 0;
 
-            // Move i to next valid character in s
-            while (i >= 0) {
-                if (s.charAt(i) == '#') {
-                    skipS++;
-                    i--;
-                } else if (skipS > 0) {
-                    skipS--;
-                    i--;
-                } else {
+        while(l >= 0 || r >= 0){
+            
+            while(l >= 0){
+                if(s.charAt(l) == '#'){
+                    cnt1++;
+                    l--;
+                }else if(cnt1 > 0){
+                    l--;
+                    cnt1--;
+                }else{
                     break;
                 }
             }
 
-            // Move j to next valid character in t
-            while (j >= 0) {
-                if (t.charAt(j) == '#') {
-                    skipT++;
-                    j--;
-                } else if (skipT > 0) {
-                    skipT--;
-                    j--;
-                } else {
+            while(r >=0 ){
+                if(t.charAt(r) == '#'){
+                    cnt2++;
+                    r--;
+                }else if( cnt2 > 0){
+                    r--;
+                    cnt2--;
+                }else{
                     break;
                 }
             }
 
-            // Compare current valid characters
-            if (i >= 0 && j >= 0 && s.charAt(i) != t.charAt(j)) {
+            if( l >= 0 && r >= 0 && s.charAt(l) != t.charAt(r)){
                 return false;
             }
 
-            // One string has characters left, the other doesn't
-            if ((i >= 0) != (j >= 0)) {
+            if( l>=0 != r>=0){
                 return false;
             }
 
-            i--;
-            j--;
+            l--;
+            r--;
         }
-
-        // ✅ If no mismatch found
         return true;
     }
 }
