@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Maheshh-S/DSA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maheshh-S/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Maheshh-S/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Maheshh-S/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maheshh-S/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -863,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2211-count-collisions-on-a-road](https://github.com/Maheshh-S/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Maheshh-S/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Maheshh-S/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -891,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2324-find-triangular-sum-of-an-array](https://github.com/Maheshh-S/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Maheshh-S/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Maheshh-S/DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Maheshh-S/DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Maheshh-S/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Maheshh-S/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Maheshh-S/DSA/tree/master/3447-clear-digits) |
