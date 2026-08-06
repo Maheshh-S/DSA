@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Maheshh-S/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Maheshh-S/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Maheshh-S/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Maheshh-S/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Maheshh-S/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Maheshh-S/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Maheshh-S/DSA/tree/master/0070-climbing-stairs) |
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Maheshh-S/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Maheshh-S/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Maheshh-S/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Maheshh-S/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Maheshh-S/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Maheshh-S/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Maheshh-S/DSA/tree/master/0118-pascals-triangle) |
@@ -1221,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Maheshh-S/DSA/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Maheshh-S/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Maheshh-S/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maheshh-S/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
