@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Maheshh-S/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Maheshh-S/DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
+| [0509-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Maheshh-S/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Maheshh-S/DSA/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Maheshh-S/DSA/tree/master/0826-soup-servings) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Maheshh-S/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Maheshh-S/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Maheshh-S/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Maheshh-S/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Maheshh-S/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Maheshh-S/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Maheshh-S/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Maheshh-S/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Maheshh-S/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Maheshh-S/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Maheshh-S/DSA/tree/master/0806-domino-and-tromino-tiling) |
@@ -642,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Maheshh-S/DSA/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Maheshh-S/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Maheshh-S/DSA/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
