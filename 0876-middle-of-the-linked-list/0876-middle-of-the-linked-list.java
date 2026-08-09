@@ -13,19 +13,11 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
-     while(fast.next != null && fast.next.next != null){
-        slow = slow.next;
-        fast = fast.next.next;
-        System.out.println("this is slow : --->.   "+slow.val);
-        System.out.println("this is fast : --->.   "+fast.val);
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
 
-     }
-
-    if(fast != null && fast.next == null){
-        head = slow;
-    }else{
-     head = slow.next;
-    }
-    return head;
+        return slow;
     }
 }
