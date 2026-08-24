@@ -1078,6 +1078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Maheshh-S/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1103,6 +1104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
+| [0993-cousins-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Maheshh-S/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1129,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Maheshh-S/DSA/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Maheshh-S/DSA/tree/master/0945-snakes-and-ladders) |
+| [0993-cousins-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Maheshh-S/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1156,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0993-cousins-in-binary-tree](https://github.com/Maheshh-S/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Maheshh-S/DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Maheshh-S/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Maheshh-S/DSA/tree/master/1382-balance-a-binary-search-tree) |
