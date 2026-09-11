@@ -6,19 +6,22 @@ class Solution {
             return;
         }
         
-        int top = st.pop();//4 3 2 1 -top
+        int top = st.pop();
+        
         reverseStack(st);
         
-        insertAtBottom(st , top);
+        insertOnBottom(st, top);
+        
     }
-    private static void insertAtBottom(Stack<Integer> s , int x){
+    public static void insertOnBottom(Stack<Integer> s , int x){
         if(s.isEmpty()){
             s.push(x);
             return;
         }
         
         int temp = s.pop();
-        insertAtBottom(s , x);
+        
+        insertOnBottom(s , x);
         
         s.push(temp);
     }
