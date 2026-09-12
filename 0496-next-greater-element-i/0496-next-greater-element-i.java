@@ -1,38 +1,30 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+        
+        Deque<Integer> st = new ArrayDeque<>();
+        HashMap<Integer , Integer> map = new HashMap<>();
         int n = nums1.length;
         int m = nums2.length;
 
-        Deque<Integer> stack = new ArrayDeque<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
-
         int[] ans = new int[n];
-
-        // for(int i=0;i<m;i++){
-        //     map.put(nums2[i] , -1);
-        // }
-
-        for (int i = m - 1; i >= 0; i--) {
-
-            while (!stack.isEmpty() && nums2[i] >= stack.peek()) {
-                stack.pop();
+        for(int i = m-1; i >=0 ; i--){
+            while(!st.isEmpty() && nums2[i] >= st.peek()){
+                st.pop();
             }
 
-            if (!stack.isEmpty()) {
-                map.put(nums2[i], stack.peek());
-            } else {
-                map.put(nums2[i], -1);
+            if(!st.isEmpty()){
+                map.put(nums2[i] , st.peek());
+            }else{
+                map.put(nums2[i] , -1);
             }
 
-            stack.push(nums2[i]);
+            st.push(nums2[i]);
         }
 
-        // [3,4,-1,-1]
-
-        for (int i = 0; i < n; i++) {
-            ans[i] = map.getOrDefault(nums1[i], -1);
+        for(int i = 0 ; i < n ; i++){
+            nums1[i] = map.getOrDefault(nums1[i] , -1);
         }
-        return ans;
+
+return nums1;
     }
-
 }
