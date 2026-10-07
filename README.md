@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Maheshh-S/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Maheshh-S/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Maheshh-S/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Maheshh-S/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshh-S/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Maheshh-S/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Maheshh-S/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Maheshh-S/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Maheshh-S/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Maheshh-S/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
@@ -757,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Maheshh-S/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Maheshh-S/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Maheshh-S/DSA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Maheshh-S/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Maheshh-S/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Maheshh-S/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Maheshh-S/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -848,6 +851,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Maheshh-S/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Maheshh-S/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Maheshh-S/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Maheshh-S/DSA/tree/master/0900-reordered-power-of-2) |
@@ -1366,4 +1370,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Maheshh-S/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Maheshh-S/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
