@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maheshh-S/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Maheshh-S/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Maheshh-S/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Maheshh-S/DSA/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Maheshh-S/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maheshh-S/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Maheshh-S/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Maheshh-S/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Maheshh-S/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Maheshh-S/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Maheshh-S/DSA/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Maheshh-S/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Maheshh-S/DSA/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Maheshh-S/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -793,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2681-put-marbles-in-bags](https://github.com/Maheshh-S/DSA/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Maheshh-S/DSA/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Maheshh-S/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2809-minimum-time-to-make-array-sum-at-most-x](https://github.com/Maheshh-S/DSA/tree/master/2809-minimum-time-to-make-array-sum-at-most-x) |
 | [2887-sort-vowels-in-a-string](https://github.com/Maheshh-S/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Maheshh-S/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Maheshh-S/DSA/tree/master/3001-apply-operations-to-maximize-score) |
