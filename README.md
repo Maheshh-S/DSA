@@ -1395,4 +1395,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Maheshh-S/DSA/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Maheshh-S/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
